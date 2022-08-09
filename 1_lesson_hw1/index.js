@@ -1,5 +1,5 @@
 height = prompt("insert height");
-if (height < 140) {
+if (height <= 140) {
     console.log ("dwarf")
 }
 if (height > 140 && height <= 175) {
