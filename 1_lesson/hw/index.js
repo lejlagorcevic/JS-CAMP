@@ -1,0 +1,1 @@
+if(unos % 2 == 0) {  console.log("Pogodio si paran broj");}
